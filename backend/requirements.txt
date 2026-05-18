@@ -1,0 +1,9 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+websockets==13.1
+langgraph==1.1.10
+crewai==1.14.4
+duckduckgo-search==6.3.7
+anthropic==0.100.0
+python-dotenv>=1.0.0
+aiofiles==24.1.0
